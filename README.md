@@ -1,4 +1,4 @@
-# 🖩 Calculator App (C# WinForms)
+# Calculator App (C# WinForms)
 
 A **Windows Forms Calculator** built using **C# and .NET**, featuring real-time evaluation of expressions, basic arithmetic operations, and percentage calculations. Designed for desktop Windows applications.
 
@@ -18,11 +18,10 @@ A **Windows Forms Calculator** built using **C# and .NET**, featuring real-time 
 
 ### **Technologies Used**
 
-C# (.NET Framework / .NET 5+)
-
-Windows Forms (WinForms)
-
-Visual Studio
+- C# (.NET Framework / .NET 5+)
+- Windows Forms (WinForms)
+- Visual Studio
 
 ## **Demo Screenshot**
+
 <img width="338" height="461" alt="image" src="https://github.com/user-attachments/assets/18e8535f-b2cc-4c1c-97cc-04d8312918f2" />
