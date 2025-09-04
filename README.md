@@ -24,5 +24,6 @@ A **Windows Forms Calculator** built using **C# and .NET**, featuring real-time 
 
 ## **Demo Screenshot**
 
-<img width="338" height="461" alt="image" src="https://github.com/user-attachments/assets/18e8535f-b2cc-4c1c-97cc-04d8312918f2" /> <img width="339" height="462" alt="image" src="https://github.com/user-attachments/assets/afa7805b-eca5-48ce-a2c4-ccb72ad461c0" />
+<img width="338" height="461" alt="image" src="https://github.com/user-attachments/assets/18e8535f-b2cc-4c1c-97cc-04d8312918f2" /> <img width="340" height="464" alt="image" src="https://github.com/user-attachments/assets/f45fcf7c-4fe2-4297-a9e3-37959462a929" />
+
 
